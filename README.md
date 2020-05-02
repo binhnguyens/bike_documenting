@@ -6,5 +6,5 @@ Initially intended for my friend to record information about his bike company wi
 
 ## Final Remarks
 
-Download zip file to get executable file
+Download zip file to get executable file<br>
 If using a windows computer, add the ".exe" extention to the file
